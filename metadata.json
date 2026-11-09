@@ -1,0 +1,6 @@
+{
+  "name": "NyxVault Exclusive Media",
+  "description": "Plateforme web haute performance de partage et de monétisation de médias exclusifs avec intégration API Nyole, régies publicitaires, abonnements et gestion créateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
